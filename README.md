@@ -13,6 +13,7 @@ https://petstore.swagger.io/
 
 ## Testing Scope
 The following API modules were tested:
+
 ## Pet
 - Add a new pet
 - Update an existing pet
@@ -22,13 +23,13 @@ The following API modules were tested:
 - Delete a pet
 - Upload an image for a pet
 
-### Store
+## Store
 - Retrieve pet inventory
 - Place a new order
 - Find an order by ID
 - Delete an order
 
-###User
+## User
 - Create a new user
 - Create multiple users
 - Retrieve user details
