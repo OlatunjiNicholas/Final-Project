@@ -7,9 +7,9 @@ Swagger Petstore API
 https://petstore.swagger.io/
 
 ## Tools Used
-●Postman
-●GitHub
-●Swagger Petstore API
+- Postman
+- GitHub
+- Swagger Petstore API
 
 ## Testing Scope
 The following API modules were tested:
